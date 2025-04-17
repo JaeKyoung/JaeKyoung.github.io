@@ -1,0 +1,52 @@
+# main links
+main:
+  # - title: "Posts"
+  # url: /posts/
+  - title: "Categories"
+    url: /categories/
+  - title: "Tags"
+    url: /tags/
+  # - title: "About"
+  #   url: https://mmistakes.github.io/minimal-mistakes/about/
+  # - title: "Sample Posts"
+  #   url: /year-archive/
+  # - title: "Sample Collections"
+  #   url: /collection-archive/
+  # - title: "Sitemap"
+  #   url: /sitemap/
+  
+
+docs:
+    
+  - title: "Paper Review"
+    url: /categories/Paper-Review/
+    category: "Paper-Review"
+    children:
+    - title: "AI"
+      url: /categories/Paper-Review/AI/
+      category: "AI"
+    - title: "Protein Language Model"
+      url: /categories/Paper-Review/Protein-Language-Model/
+      category: "Protein-Language-Model"
+    - title: "Protein Design"
+      url: /categories/Paper-Review/Protein-Design/
+      category: "Protein-Design"
+    - title: "Protein Folding"
+      url: /categories/Paper-Review/Protein-Folding/
+      category: "Protein-Folding"
+
+  - title: "Study"
+    url: /categories/Study/
+    category: "Study"
+    children:
+    - title: "Implementation"
+      url: /categories/Study/Implementation/
+      category: "Implementation"
+
+  - title: "etc"
+    url: /categories/etc/
+    category: "etc"
+    children:
+    - title: "Github Pages"
+      url: /categories/etc/Github-Pages/
+      category: "Github-Pages"
