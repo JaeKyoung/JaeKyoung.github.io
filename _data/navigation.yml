@@ -22,9 +22,6 @@ docs:
     url: /categories/Paper-Review/
     category: "Paper-Review"
     children:
-    - title: "AI"
-      url: /categories/Paper-Review/AI/
-      category: "AI"
     - title: "Protein Language Model"
       url: /categories/Paper-Review/Protein-Language-Model/
       category: "Protein-Language-Model"
@@ -34,6 +31,9 @@ docs:
     - title: "Protein Folding"
       url: /categories/Paper-Review/Protein-Folding/
       category: "Protein-Folding"
+    - title: "Language Model"
+      url: /categories/Paper-Review/Language-Model/
+      category: "Language-Model"
 
   - title: "Study"
     url: /categories/Study/
